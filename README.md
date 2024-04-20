@@ -1,3 +1,6 @@
-오디오 모뎀
+AudioModem
+Kang Hyeonmo, POSTECH CSE
+========================================
+demo video:
+https://www.youtube.com/watch?v=o_X_kg4x5lY
 
-군대에서 영감을 받아 제작함.
